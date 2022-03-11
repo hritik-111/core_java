@@ -1,1 +1,1 @@
-# practical_java
+# core_java
